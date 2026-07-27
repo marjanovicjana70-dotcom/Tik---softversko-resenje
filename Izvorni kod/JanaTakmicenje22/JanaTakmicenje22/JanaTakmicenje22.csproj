@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+	  <AssemblyName>JanaTakmicenje22</AssemblyName>
+	  <RootNamespace>JanaTakmicenje22</RootNamespace>
+	  <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+	  <SelfContained>true</SelfContained>
+	  <PublishSingleFile>true</PublishSingleFile>
+	  <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+	  <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+	  <ApplicationIcon>logo2.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\book3.png" />
+    <None Remove="Assets\crack3.png" />
+    <None Remove="Assets\cutePeng1.png" />
+    <None Remove="Assets\logo2.png" />
+    <None Remove="Assets\logo3.png" />
+    <None Remove="Assets\music3.png" />
+    <None Remove="Assets\pingvin5.png" />
+    <None Remove="Assets\sleepy.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="logo2.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		<PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="System.Net.Http.Json" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\book3.png" />
+    <Resource Include="Assets\crack3.png" />
+    <Resource Include="Assets\cutePeng1.png" />
+    <Resource Include="Assets\logo2.png" />
+    <Resource Include="Assets\logo3.png" />
+    <Resource Include="Assets\music3.png" />
+    <Resource Include="Assets\pingvin5.png" />
+    <Resource Include="Assets\sleepy.png" />
+  </ItemGroup>
+
+</Project>

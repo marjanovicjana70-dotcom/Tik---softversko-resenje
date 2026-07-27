@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="JanaTakmicenje22.Views.Pages.TikChatPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Background="#F0F4F8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="#7CADCC" Padding="25,15" BorderThickness="0,0,0,3" BorderBrush="#5588AB">
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+                    <Border Width="50" Height="50" CornerRadius="25" Background="White" BorderThickness="2" BorderBrush="#96C0D9">
+                        <Border CornerRadius="25" ClipToBounds="True">
+                            <Image Source="/Assets/cutePeng1.png" Stretch="UniformToFill" Margin="2"/>
+                        </Border>
+                    </Border>
+
+                    <StackPanel VerticalAlignment="Center" Margin="15,0,0,0">
+                        <TextBlock Text="TIK SAPUTNIK" 
+                                   FontSize="18" 
+                                   FontWeight="Bold" 
+                                   Foreground="White"/>
+                        <StackPanel Orientation="Horizontal">
+                            <Ellipse Width="8" Height="8" Fill="#4CAF50" Margin="0,0,5,0"/>
+                            <TextBlock Text="Sa tobom kroz ovo putovanje" FontSize="11" Foreground="#96C0D9"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+                <Button HorizontalAlignment="Right" VerticalAlignment="Center" Click="ClearChat_Click" Cursor="Hand">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="#5588AB" CornerRadius="8" Padding="15,8" BorderThickness="1" BorderBrush="#7CADCC">
+                                <TextBlock Text="NOVI CHAT" Foreground="White" FontSize="11" FontWeight="Bold"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+        </Border>
+
+        <ScrollViewer x:Name="MessagesScroll" Grid.Row="1" VerticalScrollBarVisibility="Auto" Padding="20">
+            <StackPanel x:Name="MessagesPanel" />
+        </ScrollViewer>
+
+        <Border x:Name="TypingIndicator" Grid.Row="1" Visibility="Collapsed" 
+                VerticalAlignment="Bottom" HorizontalAlignment="Left" 
+                Margin="25,0,0,15" Background="#C9E1F2" 
+                BorderThickness="1" BorderBrush="#7CADCC"
+                CornerRadius="15,15,15,2" Padding="12,8">
+            <TextBlock Text="Tik kuca..." FontSize="12" Foreground="#3D6B99" FontStyle="Italic"/>
+        </Border>
+
+        <Border Grid.Row="2" Background="White" Padding="20,15" BorderThickness="0,2,0,0" BorderBrush="#96C0D9">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Background="#F7F9FB" CornerRadius="20" BorderThickness="1.5" BorderBrush="#7CADCC" Margin="0,0,12,0">
+                    <TextBox x:Name="InputBox"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             VerticalContentAlignment="Center"
+                             Padding="18,10"
+                             FontSize="14"
+                             Foreground="#7CADCC"
+                             TextWrapping="Wrap"
+                             KeyDown="InputBox_KeyDown"/>
+                </Border>
+
+                <Button Grid.Column="1" Click="SendBtn_Click" Width="100" Height="42" Cursor="Hand">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="#5588AB" CornerRadius="20">
+                                <TextBlock Text="POŠALJI" Foreground="White" FontWeight="Bold" 
+                                           HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,149 @@
+﻿<UserControl x:Class="JanaTakmicenje22.Views.Pages.HomePage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto" Background="#F8FAFC">
+        <StackPanel Margin="45,40,45,40">
+
+            <StackPanel Margin="0,0,0,35">
+                <TextBlock x:Name="GreetingText" 
+                           FontSize="30" FontWeight="Bold" 
+                           Foreground="#2B5D8C"/>
+                <TextBlock Text="Nastavi tamo gde si stao/la." 
+                           FontSize="15" 
+                           Foreground="#7CADCC" 
+                           Margin="2,4,0,0"/>
+            </StackPanel>
+
+            <Grid Margin="0,0,0,32">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="20"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="20"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Grid.Column="0" CornerRadius="18" Background="White">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="25" ShadowDepth="5" Opacity="0.08" Color="#2B5D8C"/>
+                    </Border.Effect>
+                    <Grid Margin="20">
+                        <StackPanel>
+                            <Image Source="/Assets/book3.png" Width="82" Height="82" HorizontalAlignment="Left" Margin="-5,0,0,15" Opacity="0.95"/>
+                            <TextBlock Text="UKUPAN XP" FontSize="11" FontWeight="Bold" Foreground="#7CADCC"/>
+                            <TextBlock x:Name="XPText" FontSize="36" FontWeight="Bold" Foreground="#7CADCC" Margin="0,4,0,0"/>
+                            <TextBlock x:Name="LevelText" FontSize="12" Foreground="#7CADCC" Margin="0,2,0,12" FontWeight="SemiBold"/>
+                            <Border Height="7" CornerRadius="3.5" Background="#F1F5F9">
+                                <Border x:Name="XPProgressBar" HorizontalAlignment="Left" Height="7" CornerRadius="3.5" Background="#4A7AAB" Width="0"/>
+                            </Border>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+
+                <Border Grid.Column="2" CornerRadius="18" Background="White">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="25" ShadowDepth="5" Opacity="0.08" Color="#2B5D8C"/>
+                    </Border.Effect>
+                    <Grid Margin="20">
+                        <StackPanel>
+                            <Image Source="/Assets/crack3.png" Width="82" Height="82" HorizontalAlignment="Left" Margin="-5,0,0,15" Opacity="0.95"/>
+                            <TextBlock Text="STRIK" FontSize="11" FontWeight="Bold" Foreground="#7CADCC"/>
+                            <StackPanel Orientation="Horizontal" Margin="0,4,0,0">
+                                <TextBlock x:Name="StreakText" FontSize="36" FontWeight="Bold" Foreground="#7CADCC"/>
+                                <TextBlock Text=" dana" FontSize="15" Foreground="#7CADCC" VerticalAlignment="Bottom" Margin="4,0,0,6"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+
+                <Border Grid.Column="4" CornerRadius="18" Background="White">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="25" ShadowDepth="5" Opacity="0.08" Color="#2B5D8C"/>
+                    </Border.Effect>
+                    <Grid Margin="20">
+                        <StackPanel>
+                            <Image Source="/Assets/music3.png" Width="82" Height="82" HorizontalAlignment="Left" Margin="-5,0,0,15" Opacity="0.95"/>
+                            <TextBlock Text="IZAZOVI" FontSize="11" FontWeight="Bold" Foreground="#7CADCC"/>
+                            <StackPanel Orientation="Horizontal" Margin="0,4,0,0">
+                                <TextBlock x:Name="CompletedText" FontSize="36" FontWeight="Bold" Foreground="#7CADCC"/>
+                                <TextBlock Text="/40" FontSize="18" Foreground="#7CADCC" VerticalAlignment="Bottom" Margin="4,0,0,6"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </Grid>
+
+            <TextBlock Text="OTKLJUČANI BEDŽEVI" FontSize="12" FontWeight="Bold" Foreground="#7CADCC" Margin="2,0,0,16"/>
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled" Margin="0,0,0,32">
+                <StackPanel x:Name="BadgesPanel" Orientation="Horizontal"/>
+            </ScrollViewer>
+
+            <Border Margin="0,0,0,32" CornerRadius="22" Background="#7CADCC">
+                <Grid Margin="30">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.Column="0" Background="White" Width="58" Height="58" CornerRadius="15" VerticalAlignment="Top" Margin="0,0,25,0">
+                        <Image Source="/Assets/logo2.png" Margin="11"/>
+                    </Border>
+
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="QUOTE OF THE DAY" FontSize="10" FontWeight="Black" Foreground="White" Opacity="0.8" Margin="0,0,0,12"/>
+                        <TextBlock x:Name="QuoteText" 
+                                   Text="Povezivanje..." 
+                                   FontSize="20" FontWeight="Medium" 
+                                   Foreground="White" 
+                                   TextWrapping="Wrap" 
+                                   FontStyle="Italic"/>
+                        <Button Content="OSVEŽI PORUKU" 
+                                HorizontalAlignment="Right" 
+                                Background="Transparent" BorderThickness="1" BorderBrush="White" Foreground="White"
+                                Margin="0,20,0,0" Padding="14,6,14,6"
+                                Click="RefreshQuote_Click"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <Border CornerRadius="22" Background="White">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="20" ShadowDepth="4" Opacity="0.05" Color="#2B5D8C"/>
+                </Border.Effect>
+                <StackPanel Margin="30">
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+                        <TextBlock Text="Da li zelis da dodas nesto?..." FontSize="17" FontWeight="Bold" Foreground="#598EB3"/>
+                        <TextBlock x:Name="SaveStatusText" FontSize="11" Foreground="#7CADCC" Margin="15,0,0,0" VerticalAlignment="Center"/>
+                    </StackPanel>
+
+                    <Border Background="#F8FAFC" CornerRadius="14" BorderBrush="#E2E8F0" BorderThickness="1">
+                        <TextBox x:Name="QuickNoteBox"
+                                 Margin="20" 
+                                 Background="Transparent"
+                                 BorderThickness="0"
+                                 MinHeight="150"
+                                 TextWrapping="Wrap"
+                                 AcceptsReturn="True"
+                                 VerticalScrollBarVisibility="Auto"
+                                 FontSize="15"
+                                 Foreground="#598EB3"/>
+                    </Border>
+
+                    <Button Content="Sačuvaj" 
+                            Background="#7CADCC" Foreground="White" FontWeight="Bold"
+                            Height="44" Width="140" HorizontalAlignment="Left"
+                            Margin="0,20,0,0" BorderThickness="0"
+                            Click="SaveNote_Click">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </StackPanel>
+            </Border>
+
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

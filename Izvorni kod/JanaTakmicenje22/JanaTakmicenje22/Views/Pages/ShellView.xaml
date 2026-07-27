@@ -1,0 +1,142 @@
+﻿<UserControl x:Class="JanaTakmicenje22.Views.Pages.ShellView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="230"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Background="#6A98BA">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Row="0" Margin="20,35,20,25">
+                    <Image Source="/Assets/sleepy.png" Height="55" HorizontalAlignment="Left" Margin="0,0,0,12"/>
+                    <TextBlock Text="JANINI IZAZOVI" FontSize="16" FontWeight="Black" Foreground="White"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Margin="10,0,10,0">
+                    <Button x:Name="HomeBtn" Click="HomeBtn_Click" Margin="0,4" Content="POČETNA">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="bg" Background="Transparent" CornerRadius="10" Padding="15,14">
+                                    <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center">
+                                        <ContentPresenter.Resources>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Foreground" Value="White"/>
+                                                <Setter Property="FontSize" Value="15"/>
+                                                <Setter Property="FontWeight" Value="Bold"/>
+                                            </Style>
+                                        </ContentPresenter.Resources>
+                                    </ContentPresenter>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="bg" Property="Background" Value="#3D6B99"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="ChallengesBtn" Click="ChallengesBtn_Click" Margin="0,4" Content="IZAZOVI">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="bg" Background="Transparent" CornerRadius="10" Padding="15,14">
+                                    <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center">
+                                        <ContentPresenter.Resources>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Foreground" Value="White"/>
+                                                <Setter Property="FontSize" Value="15"/>
+                                                <Setter Property="FontWeight" Value="Bold"/>
+                                            </Style>
+                                        </ContentPresenter.Resources>
+                                    </ContentPresenter>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="bg" Property="Background" Value="#3D6B99"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="NotesBtn" Click="NotesBtn_Click" Margin="0,4" Content="BELEŠKE">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="bg" Background="Transparent" CornerRadius="10" Padding="15,14">
+                                    <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center">
+                                        <ContentPresenter.Resources>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Foreground" Value="White"/>
+                                                <Setter Property="FontSize" Value="15"/>
+                                                <Setter Property="FontWeight" Value="Bold"/>
+                                            </Style>
+                                        </ContentPresenter.Resources>
+                                    </ContentPresenter>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="bg" Property="Background" Value="#3D6B99"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="ChatBtn" Click="ChatBtn_Click" Margin="0,20,0,0" Content="RAZGOVOR SA TIKOM">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="bg" Background="#4A7AAB" CornerRadius="10" Padding="15,14">
+                                    <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center">
+                                        <ContentPresenter.Resources>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Foreground" Value="White"/>
+                                                <Setter Property="FontSize" Value="14"/>
+                                                <Setter Property="FontWeight" Value="Bold"/>
+                                            </Style>
+                                        </ContentPresenter.Resources>
+                                    </ContentPresenter>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="bg" Property="Background" Value="#578AB3"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+
+                <Border Grid.Row="2" Background="#3C699E" Padding="20" CornerRadius="20,20,0,0">
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                            <Border Width="40" Height="40" CornerRadius="20" Background="#96C0D9">
+                                <TextBlock x:Name="AvatarLetter" Foreground="#2B5D8C" FontWeight="Bold" 
+                                           FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Border>
+                            <StackPanel Margin="12,0,0,0" VerticalAlignment="Center">
+                                <TextBlock x:Name="UsernameLabel" Foreground="White" FontWeight="Bold" FontSize="14"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <Button Click="LogoutBtn_Click" Background="Transparent" BorderThickness="0" Cursor="Hand">
+                            <TextBlock Text="ODJAVI SE" Foreground="#ADD2FF" FontSize="12" FontWeight="Bold"/>
+                        </Button>
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Column="1" Background="#F4F7F9">
+            <ContentPresenter x:Name="MainContent"/>
+        </Grid>
+    </Grid>
+</UserControl>

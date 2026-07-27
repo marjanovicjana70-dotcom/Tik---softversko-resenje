@@ -1,0 +1,833 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\challengespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\challengespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\notespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\notespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\shellview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\shellview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\tikchatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\tikchatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\tikchatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\tikchatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\shellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\shellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\viewmodels\\challengesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\viewmodels\\challengesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\servisi\\tikchatservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\servisi\\tikchatservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\servisi\\noteservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\servisi\\noteservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\servisi\\navigationservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\servisi\\navigationservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\servisi\\challengeservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\servisi\\challengeservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\servisi\\authservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\servisi\\authservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\models\\userchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\models\\userchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\models\\postignuca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\models\\postignuca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\models\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\models\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\data\\migrations\\20240101000000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\data\\migrations\\20240101000000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\tikchatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\tikchatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\notespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\notespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\core\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\core\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\janatakmicenje22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\janatakmicenje22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\shellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\shellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\views\\pages\\challengespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\views\\pages\\challengespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\logo2.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\logo2.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\janatakmicenje22.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\janatakmicenje22.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\assets\\sleepy.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\assets\\sleepy.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\assets\\logo3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\assets\\logo3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\assets\\pingvin5.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\assets\\pingvin5.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|d:\\janatakmicenjefolder\\izvorni kod\\janatakmicenje22\\janatakmicenje22\\assets\\logo2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44DE5E4-04B7-457A-AC0A-FF0F2570276F}|JanaTakmicenje22\\JanaTakmicenje22.csproj|solutionrelative:janatakmicenje22\\assets\\logo2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abc\\AppData\\Local\\Temp\\Rar$DIa3436.41975\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abc\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abc\\AppData\\Local\\Temp\\Rar$DIa11152.15046\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TikChatViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\TikChatViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\TikChatViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\TikChatViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\TikChatViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:55:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\App.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\App.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:46:02.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TikChatPage.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:04:48.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShellView.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ShellView.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\ShellView.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ShellView.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\ShellView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:43:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:42:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesPage.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:42:38.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:51:18.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:45:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChallengesPage.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:13:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotesViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\NotesViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\NotesViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\NotesViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\NotesViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:55:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:55:24.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShellViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\ShellViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\ShellViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\ShellViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\ShellViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:55:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:08:50.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:55:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChallengesViewModel.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\ChallengesViewModel.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\ViewModels\\ChallengesViewModel.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\ViewModels\\ChallengesViewModel.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\ViewModels\\ChallengesViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:55:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\App.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\App.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\App.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T19:24:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\AssemblyInfo.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\AssemblyInfo.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:37:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TikChatServis.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\TikChatServis.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Servisi\\TikChatServis.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\TikChatServis.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Servisi\\TikChatServis.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:56:45.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NoteServis.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\NoteServis.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Servisi\\NoteServis.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\NoteServis.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Servisi\\NoteServis.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:56:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavigationServis.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\NavigationServis.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Servisi\\NavigationServis.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\NavigationServis.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Servisi\\NavigationServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:03:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChallengeServis.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\ChallengeServis.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Servisi\\ChallengeServis.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\ChallengeServis.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Servisi\\ChallengeServis.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:15:06.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthServis.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\AuthServis.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Servisi\\AuthServis.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Servisi\\AuthServis.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Servisi\\AuthServis.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:04:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserChallenge.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\UserChallenge.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Models\\UserChallenge.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\UserChallenge.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Models\\UserChallenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:55:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Models\\User.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\User.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:06:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Postignuca.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\Postignuca.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Models\\Postignuca.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\Postignuca.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Models\\Postignuca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:55:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Models\\Note.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\Note.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T10:28:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\Challenge.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Models\\Challenge.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Models\\Challenge.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Models\\Challenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:53:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240101000000_InitialCreate.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Data\\Migrations\\20240101000000_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Data\\Migrations\\20240101000000_InitialCreate.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Data\\Migrations\\20240101000000_InitialCreate.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Data\\Migrations\\20240101000000_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAI4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:05:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T21:52:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TikChatPage.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\TikChatPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:44:46.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\HomePage.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:44:57.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NotesPage.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\NotesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:42:08.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:44:55.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Core\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Core\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Core\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:05:37.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JanaTakmicenje22.csproj",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "RelativeToolTip": "JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T19:04:17.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\RegisterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:44:51.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShellView.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ShellView.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\ShellView.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ShellView.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\ShellView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:43:46.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:41:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:41:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChallengesPage.xaml",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml",
+              "RelativeToolTip": "JanaTakmicenje22\\Views\\Pages\\ChallengesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T18:44:59.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "logo2.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\logo2.ico",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\logo2.ico",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\logo2.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "JanaTakmicenje22\\logo2.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-02-24T21:37:47.659Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JanaTakmicenje22",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "RelativeToolTip": "JanaTakmicenje22\\JanaTakmicenje22.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T19:19:34.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "sleepy.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\sleepy.png",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Assets\\sleepy.png",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\sleepy.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "JanaTakmicenje22\\Assets\\sleepy.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-24T17:36:43.249Z",
+              "EditorCaption": " - PNG [128x128, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "logo3.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\logo3.png",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Assets\\logo3.png",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\logo3.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "JanaTakmicenje22\\Assets\\logo3.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-24T07:36:04.871Z",
+              "EditorCaption": " - PNG [128x128, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "pingvin5.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\pingvin5.png",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Assets\\pingvin5.png",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\pingvin5.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "JanaTakmicenje22\\Assets\\pingvin5.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-24T09:18:58.816Z",
+              "EditorCaption": " - PNG [128x128, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "logo2.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\logo2.png",
+              "RelativeDocumentMoniker": "JanaTakmicenje22\\Assets\\logo2.png",
+              "ToolTip": "D:\\JanaTakmicenjeFolder\\Izvorni kod\\JanaTakmicenje22\\JanaTakmicenje22\\Assets\\logo2.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "JanaTakmicenje22\\Assets\\logo2.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-24T05:55:43.376Z",
+              "EditorCaption": " - PNG [128x128, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\AppData\\Local\\Temp\\Rar$DIa3436.41975\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\abc\\AppData\\Local\\Temp\\Rar$DIa3436.41975\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:59:43.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\abc\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBJwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T19:22:39.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abc\\AppData\\Local\\Temp\\Rar$DIa11152.15046\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\abc\\AppData\\Local\\Temp\\Rar$DIa11152.15046\\MainWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:40:14.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
